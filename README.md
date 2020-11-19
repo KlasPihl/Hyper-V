@@ -6,7 +6,7 @@ Script made for customer to define a Trunk on vNIC
 ```powershell
 
 NAME
-    D:\OneDrive\OneDrive - Atea\Powershell\GitHub\Hyper-V\set-VMvNICTrunk.ps1
+    \set-VMvNICTrunk.ps1
 
 SYNOPSIS
     Configure trunk on VM
